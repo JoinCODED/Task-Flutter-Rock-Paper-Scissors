@@ -9,14 +9,10 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      title: 'Rock Paper Scissors',
       home: HomePage(),
     );
   }
@@ -31,9 +27,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   String playerOne = "rock";
-
   String playerTwo = "paper";
-
   String result = "";
   void play() {
     final signs = <String>['rock', 'paper', 'scissors'];
