@@ -6,7 +6,7 @@
 
 1. Create a new project named: rock_paper_scissors.
 2. Set up your application with a `Scaffold` and an `AppBar`.
-3. Copy these (images)[] into your project and add them to your `pubspec.yaml`.
+3. Copy these [images](https://github.com/JoinCODED/Task-Flutter-Rock-Paper-Scissors/tree/main/assets/images) into your project and add them to your `pubspec.yaml`.
 4. In your `Scaffold`'s body, create a `Column`.
 5. In your `Column` create a 2 widget: a `Row` and an `ElevatedButton`.
 6. In your `Row` create 2 `Column`s, each `Column` have an `Image.asset` widget and a `Text` widget.
