@@ -1,5 +1,7 @@
 # Rock Paper Scissors 🪨📑✂️
 
+![image1](https://user-images.githubusercontent.com/84308096/158996521-fc00d552-d4a2-42c1-a2d1-fa97b4a51dbf.gif)
+
 ## Instructions
 
 1. Create a new project named: rock_paper_scissors.
