@@ -1,33 +1,21 @@
-# TASK-NAME
-
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+# Rock Paper Scissors 🪨📑✂️
 
 ## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/{REPO_NAME}) to your `Development` folder.
 
-## Objective and end result
-- Write the objective of the task.
-- If there are any images, make sure you resize them to around 880px maximum width. **Don't add big images**
+1. Create a new project named: rock_paper_scissors.
+2. Set up your application with a `Scaffold` and an `AppBar`.
+3. Copy these (images)[] into your project and add them to your `pubspec.yaml`.
+4. In your `Scaffold`'s body, create a `Column`.
+5. In your `Column` create a 2 widget: a `Row` and an `ElevatedButton`.
+6. In your `Row` create 2 `Column`s, each `Column` have an `Image.asset` widget and a `Text` widget.
+7. Create 2 variables of type `String`, one for player 1 and the other is for player 2.
+8. Render the images based on the value of the variables you created using string interpolation.
+9. Create a `play` function and inside create a list that has 3 signs, `rock`,`paper` and `scissors`.
+10. Generate 2 random numbers between 0 and 3. each number is for a player.
+11. Convert your widget into a stateful widget.
+12. Call the `setState` method and assign each player a random element from the list of signs using the index.
+13. Assign the `play` function to your `ElevatedButton`.
 
-![screenshot](https://tenor.com/xNjE.gif)
+### 🍋 Who's the winner?
 
-
-### 🍋 The basic challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🤼‍♂️ The hard challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🌶 The Extreme challenge title 
-
-- Step 1
-- Step 2
-- Step 3
+Add a `Text` widget before your `ElevatedButton` and show the result in it, use an if else statements.
