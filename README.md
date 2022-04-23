@@ -2,7 +2,7 @@
 
 ![image1](https://user-images.githubusercontent.com/84308096/158996521-fc00d552-d4a2-42c1-a2d1-fa97b4a51dbf.gif)
 
-## Instructions
+## 🍋 Instructions
 
 1. Create a new project named: rock_paper_scissors.
 2. Set up your application with a `Scaffold` and an `AppBar`.
@@ -18,6 +18,6 @@
 12. Call the `setState` method and assign each player a random element from the list of signs using the index.
 13. Assign the `play` function to your `ElevatedButton`.
 
-### 🍋 Who's the winner?
+### 🤼‍♂️ Who's the winner?
 
 Add a `Text` widget before your `ElevatedButton` and show the result in it, use an if else statements.
