@@ -4,6 +4,16 @@
 
 ## 🍋 Instructions
 
+```
+1. Create a new Github repo
+2. Create a local repo using the command `git init`
+3. Push to the new repo
+
+git remote add origin https://github.com/YourUsername/repoName.git
+git branch -M main
+git push -u origin main
+```
+
 1. Create a new project named: rock_paper_scissors.
 2. Set up your application with a `Scaffold` and an `AppBar`.
 3. Copy these [images](https://github.com/JoinCODED/Task-Flutter-Rock-Paper-Scissors/tree/main/assets/images) into your project and add them to your `pubspec.yaml`.
