@@ -36,19 +36,19 @@ git push -u origin main
 
 Here's the widgets you will need:
 
-[Row](https://api.flutter.dev/flutter/widgets/Row-class.html).
+- [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
 
-[Column](https://api.flutter.dev/flutter/widgets/Column-class.html).
+- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
 
-[Image.asset](https://api.flutter.dev/flutter/widgets/Image-class.html#asset-named-String-width-double-height-double).
+- [Image.asset](https://api.flutter.dev/flutter/widgets/Image-class.html#asset-named-String-width-double-height-double)
 
-[Text](https://api.flutter.dev/flutter/widgets/Text-class.html).
+- [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
 
-[ElevatedButton](https://api.flutter.dev/flutter/widgets/ElevatedButton-class.html).
+- [ElevatedButton](https://api.flutter.dev/flutter/widgets/ElevatedButton-class.html)
 
-[AppBar](https://api.flutter.dev/flutter/widgets/AppBar-class.html).
+- [AppBar](https://api.flutter.dev/flutter/widgets/AppBar-class.html)
 
-[Scaffold](https://api.flutter.dev/flutter/widgets/Scaffold-class.html).
+- [Scaffold](https://api.flutter.dev/flutter/widgets/Scaffold-class.html)
 
 ### 🤼‍♂️ Who's the winner?
 
